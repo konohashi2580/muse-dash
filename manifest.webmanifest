@@ -1,0 +1,1 @@
+{"background_color":"#f6f4ec","description":"Muse が追跡していることをまとめた個人用ダッシュボード","display":"standalone","icons":[{"purpose":"any","sizes":"any","src":"icon.svg","type":"image/svg+xml"},{"purpose":"maskable","sizes":"any","src":"icon.svg","type":"image/svg+xml"}],"name":"Muse Dash","scope":"./","short_name":"Muse Dash","start_url":"./index.html","theme_color":"#2e9e6b"}
